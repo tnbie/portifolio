@@ -1,0 +1,78 @@
+body{
+background-image: url('');
+background: #e6f3ff !important;
+background-repeat: inherit;
+background-size: auto;
+font-family: Roboto, sans-serif; 
+}
+
+
+.header {
+    text-align: center;
+    font-size: 35px;
+    color:  grey;
+    font-family: Roboto, sans-serif;
+}
+
+.footer-col,
+.footer-below,
+.col-lg-12,
+.col-md-4 {
+color: black;
+text-decoration: solid;
+}
+
+
+.list-inline{
+color: black;
+text-align: center
+}
+
+
+.pare{
+text-align: center;
+font-size: 15px;
+color: black;
+}
+
+.btn-social {
+color: #99bbff;
+}
+
+.jumb-p {
+color: black;
+text-align: center;
+text-decoration: solid;
+font-family: Roboto, sans-serif;
+}
+
+.about{
+ text-align: justify; 
+ font-family: Roboto, sans-serif;
+}
+
+.nav,
+.navbar,
+.navbar-nav,
+.navbar-inverse,
+.navbar-fixed-top {
+	font-family: Verdana, sans-serif;
+}
+
+.navbar-brand {
+ font-family: verdana, sans-serif;
+ font-size: 20em;
+}
+
+#header-one{
+font-size: 38px;
+}
+
+.presentation{
+text-align: center;
+font-family: Verdana, sans-serif;
+}
+
+.jumbotron{
+background: #e6f3ff !important;
+}
