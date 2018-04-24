@@ -7,7 +7,6 @@
 2. HTML is used to create the structures of the page.
 3. More CSS is on other stylesheet, to additional style.
 4. Links to other projects.
-
 5. Skills page added on 24/04/2018.
 5. Refactored on 24/04/2018.
 6. Language of Page: English.
