@@ -1,6 +1,7 @@
 body{
+background-image: url('imgs/assets/banner.jpg');
 background: #e6f3ff !important;
-background-repeat: inherit;
+background-repeat: auto;
 background-size: auto;
 font-family: Roboto, sans-serif; 
 }
