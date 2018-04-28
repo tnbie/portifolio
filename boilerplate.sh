@@ -1,3 +1,6 @@
+#!/bin/bash +x
+echo 'populate files...'
+sleep 1
 echo '<!DOCTYPE html>' >> new.html
 echo '<html>' >> new.html
 echo '<head>' >> new.html
@@ -17,3 +20,5 @@ echo '<br>' >> new.html
 echo '</body>' >> new.html
 echo '</html>' >> new.html
 echo '</html>'  >> new.html
+sleep 1
+exit
