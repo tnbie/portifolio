@@ -42,8 +42,5 @@ mv mystyle.css app
 sleep 1
 echo 'finishing...'
 sleep 1
-<<<<<<< HEAD:boilerplater.sh
+
 exit
-=======
-exit
->>>>>>> e0a7b70fe754eaef7476906b765701f039093c46:boilerplater.sh
